@@ -28,4 +28,5 @@ Let me introduce myself, I'm currently interested in modding for Minecraft.
 
 ## My main projects
 
+- **[Project Earth](https://github.com/legenlee/project-earth)**
 - **[IndustrialCraft-Next](https://github.com/legenlee/industrialcraft-next)**
