@@ -29,5 +29,5 @@ Let me introduce myself, I'm currently interested in modding for Minecraft.
 
 ## My main projects
 
-- **[Nozomi (Crylic)](https://github.com/legenlee/nozomi)**
+- **[Nozomi](https://github.com/legenlee/nozomi)**
 - **[IndustrialCraft-Next](https://github.com/legenlee/industrialcraft-next)**
