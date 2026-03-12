@@ -29,6 +29,7 @@ Let me introduce myself, I'm currently interested in modding for Minecraft.
 
 ## My main projects
 
-- Project Highlander
+- Project: Tachibana of Highlander
+  - **[Hikari](https://github.com/legenlee/hikari)**
   - **[Nozomi](https://github.com/legenlee/nozomi)**
 - **[IndustrialCraft-Next](https://github.com/legenlee/industrialcraft-next)**
