@@ -27,10 +27,11 @@ Let me introduce myself, I'm currently interested in modding for Minecraft.
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.Net" />
 </div>
 
-## My main projects
+## My in-developing projects
 
 - Project: Highlander
   - **[Hikari](https://github.com/legenlee/hikari)**
   - **[Nozomi](https://github.com/legenlee/nozomi)**
   - **[Aoba](https://github.com/legenlee/aoba)**
+- **[Kamilia](https://github.com/legenlee/kamilia)** 
 - **[IndustrialCraft-Next](https://github.com/legenlee/industrialcraft-next)**
